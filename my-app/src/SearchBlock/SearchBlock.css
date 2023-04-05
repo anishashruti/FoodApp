@@ -1,0 +1,29 @@
+#SB{
+    display : flex;
+    justify-content:center;
+    flex-direction: row;
+}
+
+#form{
+    display: flex;
+  flex-direction: column;
+}
+#inputText {
+    width: 200px;
+    margin: 5px 10px 5px 0;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+#Submitbutton {
+    width: 200px;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    color: black;
+}
+
+@media (max-width: 800px) {
+    #inputText {
+      margin: 10px 0;
+    }
+}

@@ -1,0 +1,14 @@
+#brand{
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: bold;
+    font-size: 50px;
+}
+
+#Navbar{
+    overflow: hidden;
+    width: 400px;
+    margin: auto;
+}
